@@ -1,10 +1,11 @@
-Creation of the README for the Credit Application I'm creating.
-Will be logging the development process below.
+# Welcome
 
-#Welcome
+## Getting Started
 
-##Getting Started
+## What's To Come
 
-##What's To Come
+## Questions
 
-##Resources
+1. What's This For?
+
+2. Who's This For?
